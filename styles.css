@@ -149,6 +149,8 @@ footer {
     background-size: 100% 100%;
     float: inline-start;
     width: 100%;
+    left: 0;
+    right: 0;
 }  
   .projcard-container {
     margin: 50px 0;
